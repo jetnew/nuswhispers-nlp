@@ -1,0 +1,332 @@
+tag,text
+62999,"Anyone else noticed the asymmetry that all it takes for a girl to pique a guys interest is her looks while it takes a LOT more(comparatively) for a guy, generally? Does this natural asymmetry bother anyone as fundamentally very unfair, in the same sense as women, in general, are less physically strong than men (which,for example, leads to all kinds of safety issues)?"
+62997,"So just now on my way back home, being a reckless, non-exemplary student who walks around with their phone, fell into the tiny pool in UTown, the ones near the bus stop.
+
+To be honest the lights in the pool were completely off and lights around are also off. As the wet embrace of the knee deep pool enveloped me, the light from the create building and some chick's deafening laughter was the only thing I could comprehend. 
+
+NUS UTown rant: maybe keep some of the lights on and probably higher fences. Or maybe it's just me.
+
+Pro tip: take out your phone first THEN look for your glasses."
+62994,"Is it materialistic of me to befriend someone who is rich so that someday I can ask for a favor? On the surface, we do share similar interests, in fact the most similar among all the people I have ever known in my entire life. However, deep down I suspect we will never truly click. It's baseless, purely my intuition actually that it was all an facade because she also has something she wants from me."
+62993,"Just gotta give a thumbs up to the CS2040c teaching team. Firstly, Prof Steven Halim really structures the module excellently with good use to his personal website (World of Seven). He starts by introducing himself at Week 0 and sets the standards of the module in the process. Although it is true that flipped classroom might be time consuming due to the extra time spent reading up before the class coupled with Prof's insistence of not recording the lecture,  these are just small obstacles that one can slowly overcome. 
+
+Secondly, his assignments are not that rush and gives the student adequate timing to finish the questions. He even scaled the questions down from 2/3 after getting feedback from students that the workload is too high. Now this is what I call listening to student's feedback. 
+
+Lastly, he has an amazing team of TA (not to mention kattis the cat) backing him up throughout this module. Providing consultation slots every week despite their personal busy schedules. 
+
+Regardless of what grades I receive for this module, hoping for the B+, I really enjoy it. Thank you Prof Steven as well as all the TA's making it an excellent module!"
+62991,#62969:  2040C has a female TA? So rare to see female TAs in CS.
+62990,"What do you guys/girls do with the gifts your exes gave you after break up? Do you dispose of them, or do you keep them?"
+62989,"As a year 4 student from FASS, I would like to point out a few tips for those in your year 1 or 2. 
+
+Not everyone gets to attend NUS camps especially if you’re financially tight, yep cos camps are expensive especially those famous ones. As someone from FASS, I tend to see many cliques who arrange same timetable together etc and basically “everyone’s with everyone”. When you don’t attend camps, it just seems like you’re gonna walk around school alone and witnessing all the happy cliques in class.
+
+However, I would like to point out that although friends and cliques in school are important for normal social situations, it is even more self-liberating when you’re in solitude. When you’re quiet and alone, you’ll experience this epiphany of solving problems even in life’s problems. It’s not wrong to be “alone” because it’s  always about independence too. When you’re in senior year, you’d probably understand this better.
+
+Just fret not to see yourself attending classes alone because it’s really nothing and rather normal too~"
+62988,"Many of my classmates interpret central limit theorem as if when n becomes large then samples drawn from any distribution will automatically becomes normal!! Including poster #62974.
+
+No this is not central limit theorem.
+
+The correct interpretation is if a large number of samples from is drawn from a non-normal distribution, then some property of these samples will now follow normal distribution.
+
+For eg, a property would be the mean. if you draw large samples from a uniform distribution or lognormal distribution or any non normal distribution, you will find that the mean is normally distributed. In other words the mean will follow a normal distribution with a standard deviation known as standard error of mean which is given by σ/sqrt(N). 
+
+Furthermore our grades in each modules are not neccessarily normal distributed.
+If you run a shapiro wilk test on our exam scores, it is not neccessarily normal.
+
+So finding the mean and standard deviation of each exam scores, then transform to build distribution is lame and not neccessarily done
+
+The grading is in fact can be done directly by placing percentage caps on each grade.
+Say A top 10% , A- next 10%, B+ 20% and so on.
+
+So those who pray to bell curve god scores poorly, as bell curve is redundant and is not really being used."
+62987,"When math profs say that this is a standard result of elementary calculus, and you have no idea despite being a year 4 math student ...."
+62986,"Hi all, kind of a stupid question here but I've graduated a couple of years ago and was wondering if you all go for yearly medical check ups or twice yearly check ups? I've not have any symptoms of any illness so far but I'm kind of afraid of the genetic conditions that may run in my family like heart disease. Does anyone know where to get them done and roughly how much it will cost (are they medisave deductable?)? Or are medical check ups even necessary at all? Sometimes I go to the polyclinics with a minor problem like a cough and the doctor looks at me like I'm wasting her time, so now I have a habit of not going to the doctor at all lol. Thank you:)"
+62985,"For those of you playing AFK Arena, I am shamelessly promoting my guild here so please join! Guild name is Team NUS."
+62984,"Hi, I found this notebook late last night at utown green. It’s with utown security next to Mac commons."
+62983,I may as well not have turned up for the CS2100 paper—I left so much of it blank that I probably got a zero anyway.
+62982,"to #62982: 
+
+how do you handle conflicts/disagreements? when talking to friends and siblings about their relationships, i realised that something that varies between them a lot is their attitude (and their partner's) towards things they cannot agree on. 
+
+do you both take time to understand what the other party wants and why? when you let them ""win"" (so to speak), what do you feel about this decision and about them? are you calculating/counting each time they bring up something that they disagree with, just to ensure that you do not rock the boat more than them? 
+
+if you can reach a situation where you and your partner are truly honest about anything that upsets either of you, talk about it rationally and not taking it personally, and are comfortable and understanding when things do not go your way, that is a sign of a good relationship."
+62981,"Im the originator of #62981 post. Thank you all for your advices. It seems that everyone objects me to stay in contact with my abusive ex boyfriend anymore. But I feel so lost and unhappy, I have no mood to do anything. We once had such happy moments together and now suddenly it turns to blank darkness without him. We have even planned for the future like marriage etc. And he had proposed to me. 
+
+At that moment he became violent, i felt i hated and scared of him. Sometimes i think back it may be because of his long term illness that caused him to hit me accidentally, as he is on medication. On the another hand, im afraid that i might get hurt again if i get together back with him. But I can't bear to if he was to have another girlfriend. I feel so so so empty and confused...... What should I do? And what would you all do if you are in my situation?"
+62978,"I’ve noticed that when “That TA’s cute” is mentioned, those TA’s are often from CS. Does this mean that the TA’s from the other faculties/majors are just really lacking in the looks department, or that the students from the other faculties/majors are already attached that no attention is paid to them? Can we share the love?
+
+- From a concerned, single grad student in another faculty/major."
+62977,"To the guy who keeps clearing his throat aggressively this morning in MPSH2, maybe you can try this product (also for any others who have phlegm in their throats)"
+62976,My advice to freshman choosing their course is to not judge the quality of a degree base on the Indicative Grade Profile. Engineering is not a dying profession. It will die when the business and CS students can make planes fly
+62974,"Many of my classmates interpret central limit theorem as if when n becomes large then samples drawn from any distribution will automatically becomes normal!! Including poster #62974.
+
+No this is not central limit theorem.
+
+The correct interpretation is if a large number of samples from is drawn from a non-normal distribution, then some property of these samples will now follow normal distribution.
+
+For eg, a property would be the mean. if you draw large samples from a uniform distribution or lognormal distribution or any non normal distribution, you will find that the mean is normally distributed. In other words the mean will follow a normal distribution with a standard deviation known as standard error of mean which is given by σ/sqrt(N). 
+
+Furthermore our grades in each modules are not neccessarily normal distributed.
+If you run a shapiro wilk test on our exam scores, it is not neccessarily normal.
+
+So finding the mean and standard deviation of each exam scores, then transform to build distribution is lame and not neccessarily done
+
+The grading is in fact can be done directly by placing percentage caps on each grade.
+Say A top 10% , A- next 10%, B+ 20% and so on.
+
+So those who pray to bell curve god scores poorly, as bell curve is redundant and is not really being used."
+62973,"#62973 But e-exams are not necessarily a good thing as well; it's so hard to annotate questions with just a highlighting tool (if that is even enabled in the first place), it's difficult to keep track of what qns are left to be answered even with the flag tool, and any workings would still have to be done on rough papers anyway. So basically e-exams won't save as much paper, just like how banning plastic straws won't save any plastics. (Whoops I guess I reignited both debates again ¯\_(ツ)_/¯ )"
+62971,Hi everyone! Any life science graduates who actually exited at the year 3 plan and did not went for honours? Is going to the 4th year really that important? Appreciate any inputs regarding this matter. Thank you in advance!
+62969,#62969:  2040C has a female TA? So rare to see female TAs in CS.
+62965,"Is it weird to ask a prof who has only taught you two modules across four years (who knows you by name, at least) to write you a testimonial?"
+62964,"Hey #62904, don't worry. Your life isn't that complicated. You said guy A doesn't feel the same way towards you and you don't feel the same towards guy B while guy C is just a fwb. 
+
+Since no one shares mutual feelings with you, it's best to just move on. So yup you should continue talking to other guys and see if there are better ones out there. 
+
+I'm sure you will eventually find someone who feels the same towards you. Honestly I think my life is a little more complicated. 
+
+Some years back I joined two CCAs and got to know two guys from each CCA. During final year, I often went out with each of them. Let's just call them V & W. I liked V first. 
+
+One day I decided to confess to V. He rejected me. He said W likes me and as a good friend of W, he felt that it'd be wrong of him to date me. 
+
+I stopped going out with V but continued to go out with W. W showered me with care. Eventually, I was moved by his effort and decided to date him. 
+
+When V saw that W and I were dating, he got really upset. He suddenly stopped hanging out with W, which left W feeling confused and troubled. 
+
+Seeing that both of them were upset with each other, I decided to end things with W. What surprised me most was V suddenly decided that he wants to date me. I asked him to give me some time to think it through. 
+
+V said he regretted letting go of me. At the same time, W continued asking me out, hoping that I would accept him again. 
+
+To take things off my mind, I started a new hobby and met guy X. X actually knew W from army. They hang out occasionally and he knew about me and W.
+
+I was attracted to X and he liked me too. But I didn't want him to feel like he's a rebound, so I asked to hang out as friends first.
+
+On my graduation day, V and W wanted to come. I persuaded W not to come and let V come because he wanted to help take photos and he's a good photographer. 
+
+X suddenly said he's nearby so he decided to come over. Both wanted to send me home and invited themselves into my house. Three of us sat on the couch and made some small talk. The situation was painfully awkward.
+
+I then started my first job. A few weeks into the job, I met guy Y and guy Z, both from different dept. 
+
+Y would often buy me breakfast and coffee while Z would always offer to help me with my work whenever I face difficulties. I would often hang out with each of them after work. 
+
+Coincidentally, Y's birthday and Z's birthday are 2 days apart. But they wanted to celebrate with me on the same saturday. I went out with Y and left a few hours later for dinner with Z. It was sad seeing the disappointed look in Y as I went off. 
+
+Z then started asking me out for movies and dinners. There was once we were walking around the mall after dinner and ran into V and his female friend. 
+
+I felt a little jealous and casually asked V who she was. I decided to tell him how I feel. He said it was just a long time friend and got jealous that I was with a guy. I told him it was just a colleague. He then asked me to give him another chance. Realising that I still like him, I finally accepted him. I also decided to cut off contact with everyone else. 
+
+Indeed, life can be quite complicated and frustrating. But what is meant to be in our lives will find its way to us. So just be a little patient, things would turn out fine in the end."
+62962,"Read an article about millenials, and some who chose to settle down and get married quite young, and there was an anecdote, about this couple who in the midst of a terrible fight found their moment of clarity, the guy stepped back and asked, is this it for us? And she replied, no, i'm willing to keep trying if you are. reading that made me a little wistful. I never want to be that fool holding on to something that never was, but I can't help feeling sad because, I was willing to keep trying, but you only spelled the end. Who am I to ask for something you don't want?
+
+#62909, you're not alone. I hope we each find a love we deserve."
+62960,"We broke up in 2018 january because he lost quite a sum of money in an entrepreneurial project and got depressed. He could not commit emotionally. But we got together after a week of breaking up because we love each other so much. In january 2019, I found out he went clubbing on the day we broke up. Took a picture with this hostess and start talking to her ever since, until i found out about their conversation on jan 2019. 
+
+They spoke in another language which i wasnt familiar with but i could comprehend SOME of it. It was greeting each other good morning/afternoon/night. She will ask him when is he coming back to see her. She will ask him money too. (But he said he didnt gave her money). I couldnt understand what he replied to most of them though. All these happened (talking to her and shit) when he was being cold to me (tho we r in a relationship) because he said he was still bothered by the fact that he lost a huge sum of money in his project. During this time, i was crying almost everyday trying to make this relationship work and get back the lovely and sweet boyfriend he used to be. 
+
+He stopped being cold to me when it was ard midyear yet he continued talking to her. We were happy starting mid year. He started being sweet all over again. 
+
+One day i got a bad instinct. Went to check out his Line app and saw their conversation. I was super shocked and speechless. Couldnt stop crying. Note that i never check his phone before because i trusted him.
+
+He apologised and said he was very inconsiderate to my feelings when he did that. I will bring up this issue everytime because i get paranoid. It seems to him that im attacking him of cheating again but im just afraid it will happen again. I get anxious when he likes other female pictures on instagram as well. I cant help it. I cant help but to overthink time and time again because im so afraid. I will ask “are u talking to any girl?” Then he will be annoyed because it seems like im attacking him.
+
+Did he emotionally cheated on me? What do yall think? How do i move on from this? Im really desperate as i am becoming toxic in this relationship. I want us to get better because he is loyal now but i cant seem to get over the past. How do i stop feeling paranoid? How do i trust again? Please advice."
+62957,"I suffered bad (academically) in year 1 and 2 in NUS. But I pressed on to survive through honours year now. I just want to let you know that with the right mindset and attitude, you can go far.
+
+It is a rat race in Singapore. But always be positive because you never know what’s gonna happen when you give up. Just.look.forward!????????"
+62956,"Not sure if this is the correct place to ask, but I have a question regarding the language preparation programme (LPP). The website for it has a PDF with more info and they state that people in ""accounting"" faculty are not eligible. Anyways, I would like to clarify if BBA(Acc) students would be eligible for LPP. Thanks in advance!!"
+62955,"is it normal to fail a 1k cs mod..?
+i made bad planning during bidding and couldn’t plan my time well to study :("
+62954,"Why are private universities not as popular as local universities? I thought private universities such as UOL are quite well known. Correct me if I’m wrong, attaining a degree from UOL in London itself carries the same value as getting one in Singapore right? Are the curriculum the same in both countries?"
+62953,"Hello guys, your senior here. I graduated in 2015 with a pass degree. If i recall correctly, my CAP was around 2.5x. 
+
+Tanking the bell curve was the norm. Contrary to what most people think, i actually had fond memories of NUS. I attended more than 90% of my classes, had good friends, was in a relationship. I just wasnt good in studying.
+
+Some of you might be thinking of giving up (i.e quit NUS) because your grades are barely enough to keep your head above the water. My advice is, dont. If NUS accepts you, you are good enough to graduate. I know because i had a lot of Cs, couple of Bs and Ds, and less than 5 As (project modules, heh). I fail a mod too.
+
+At a CAP of 2.XX, its not about scoring well anymore. Its about survival. Don’t listen to people who tell you to choose the module that you like.  Fact is, what you like might not be what you are good at. You need to choose modules that will push up your CAP.
+
+For people like us, we need to choose those modules that are easy, has little workload, electives with MCQ final exams or modules with heavy weightage on project work/presentation. Those are the mods are hard to score well, but it also means it is hard to fail. I mean, if that module is project work based with NO final exam, your prof is not gonna fail you and your team.  Most of the time, you are gonna end up with at least a B which will help pull up your D or C.
+
+Of cos, don’t be a free loader for project work. You don’t need to spend so much hours on the project like a first class, but doing your fair share is good enough.
+
+I had times when I felt NUS was really tough and the stress was really unbearable. But I know crying or giving up will not solve the problem. My parents are not educated and I had 3 other younger siblings. My dad works 7 days a week for years, resting only during CNY. So I know giving up is not an option. 
+
+Looking back, I remembered the tough times and good times. And I am glad I come out of it mentally stronger and most importantly, I survived NUS even though many a times, I felt like a goldfish trying to climb a tree.
+
+Remember, if you are good enough to enter NUS, you are good enough to graduate. Good luck and i see you at the end of the rainbow!"
+62951,"Hey to confessors who wanted to exercise be it gaining muscles weight for girls or losing fat lose, I saw on another confession page that helps solve being shy to gym outside or getting sick of doing the same exercise over and over again, try this video by a female and you can learn follow just at home don’t give up ! https://youtu.be/gSwn6tHNetk"
+62950,Why is it that everyone hates engineering? I tell my relatives that I am in enginering and they laugh at me. Is engineering prospects really looked down upon and that bad? Should I switch fields?
+62949,"I am seriously in need of some advice. My mum passed away december last year. I am not sure if it is due to the loss, I find myself crying for no reason, especially at night or when I am alone. And certain times, I do get reminded of her and I started crying.
+
+Apart from this, I find myself easily triggered and getting short tempered. I really do miss the times I talk to her when I get home, and now I longer have snyome to talk to. Part of me also felt the guilt towards her just before she left. Don't get me wrong, I just felt that I could have been a better daughter (as always)
+
+While life goes on day to day, I felt lethargic more than usual, and didn't enjoy the things I used to enjoy (exercise). This is also disturbing me a lot as as times I felt that I couldn't control my emotions and I can't sleep well. 
+
+While I rule the possibility of depression, I am also quite aware of my flare up after I do and crying, just that I can't control it when it happens, especially for the tears part. I just get really moody and upset with poor appetite. I don't think I am stressed at work, though it plays a small part. But I think the main reason is the loss of my mum. With friends around I am ok, the thing is when I am alone or at home. 
+
+Serious advice on what can I do.? I tried several relaxing techniques to help me control, and it has still been happening.."
+62947,"Can someone teach me how to forget him? I liked him since 3 yrs and I know alot of things abt him. I like him because he tell me alot of things and though hes 4 yrs older than me but that really doesnt matter to me. Unless it matters to him. I confessed it and it seems that he rejected. He make me hate him but I still care alot about him. I feel so useless because I still liked him at the back when i blocked him in facebook and instagram. It seems as if i couldnt forget abt him. i wanted to forget all about him. Though he doesnt follow me in instagram. but he likes to take a look at my stories. is it that he likes me or he doesnt? He didnt claim his stand but based on current situation, I know he doesnt like me. Please help me. 
+ps I dont look pretty. Im abit short and fat."
+62946,Hi I am entering NUS this coming year and I have been offered the e scholar programme (I think it used to be GEP in previous years). Should I take it up? Is it a good programme?
+62945,"Over the years I can’t help but notice how girls’ tragic romance confessions revolves only around a few topics:
+
+1) Being cheated on
+2) Breakup due to differences over time
+3) Agreeing to sex to prove mutual feelings
+4) Finding it hard to turn down requests for sex
+The list goes on and on. 
+
+People say love is blind. But I call it plain dumb. 
+
+How can girls who study in so called top ranking in the world universities not have the mental capacity to look beyond the surface? 
+
+Those guys in uni don’t even have an income much less to say promise you a future together yet girls give them everything. 
+
+When the time comes for graduation guys have the easy way out of relationships by quoting work commitment, change in values etc. Sounds familiar?
+
+What about the girls? They end in up on dating apps. You’ve no idea how many girls have mentioned believing the person they used to make out with were their true love. But it’s all pump and dump.
+
+Call it “true love” as you may, but i call the current generation of girls as sexually groomed without a moral compass."
+62944,"To OP #62923
+
+Calling BS on your confession. Not even the local top brass makes it to entry hedge fund unless you pulled some strings to get there. An analyst position in hedge fund only hires experienced IB/PE with proven track record (min 2-4 years) and easily double the salary there.
+
+Advice to any finance/econ/banking majors - learn well and pick up fast in your internships, and keep in contact with your supervisors. IB wannabes, well you need the entire package down.
+
+- ex-fund associate now consultant. class of '14"
+62943,"recently i've been facing a rough time with my girlfriend, we can't seem to see eye to eye in anything, and we have been quarreling a lot. she have tons of close guy friends and im very insecure when it comes to them, im afraid she starts developing feelings for them because i dont feel like im good enough. she will always assure me in the past but now she just stop doing so. and i start getting suspicious and i want her to report everything to me and she hasn't been reacting too well to it, she thinks im a control freak... i love and trust her but im just so damn insecure.. and i've been hurting her a lot with the words i say and how i react in situations. but i dont want to admit that im in the wrong."
+62940,"Is it wise to accept my offer into NUS FASS without a secured spot in Psychology?
+
+I hear Psych is very competitive and that i have to get at least a B- in certain mods to secure a place.
+
+Should i opt for SMU instead?
+Any seniors can provide a gauge on how difficult it is to secure a spot in Psych?"
+62939,"#62905 Too bad, he's beyond your reach. Go do some research on his background first."
+62935,"Really curious about those in the insurance industry, how much do they really earn? I have one or two ex school mates who joined. it’s been a few years now, and it seems like they’re doing really really well. They own houses and cars, that’s makes them more successful than 50% of our batch. The weirdest part is the they even have frequent overseas business trips?? I have no idea what insurance agents do for overseas businesses trips.
+
+I’m stuck in a below average pay engineering job (it’s freaking far cry from the data published for nus engineering fresh grads) for a few years already and am really tempted to join them."
+62933,"Apart from the usual didactic modes of teaching with its seemingly compulsory series of examinations, assessments and projects, how else can one begin to learn a specific topic by himself/herself? I became especially interested in history and literature texts recently, but I will not be able to take their introductory modules as I will be graduating after this semester.
+
+Any advice on how to independently read and analyse works within the two fields would be greatly appreciated. If it helps to give some background, I am a science major and previously graduated from the UTCP. Thanks!"
+62929,"Hi, no troll here, I am just curious. Do most guys comb hair?
+
+So my boyfriend hasn’t been combing hair since around JC. Not that he looks untidy, he actually looks very neat (and handsome), but he just doesn’t comb his hair. He said he used to comb his hair when he was younger, but at some point in time around JC, he found that there was no need to. So now, he doesn’t even own a comb. I am just wondering if there are guys out there who doesn’t need to comb hair? 
+
+P.S. my boyfriend is not bald"
+62928,"I'm currently overseas, and traveling alone without by bf has kept me thinking...
+
+I've only had one hookup prior to my current bf, and that was basically my entire sexual experience. It's awkward seeing the guy I hooked up with in school since it was kinda a series of bad decisions that led me to hook up with him. Then again it was a long time ago, I was immature and hasty. Anyway I'm not sure he remembers me. I just tend to avoid him and his friends in case he remembers, and since my bf knows him too I tend to just leave them alone when they talk in case he remembers what happened between us.
+
+Sometimes I catch myself thinking and wondering if my current bf (who's a virgin) would be as good in bed as my hookup/FWB at the time since he was pretty experienced being a couple years older and having quite a lot of experience. I'm not sure if thinking like this is healthy for my relationship and I don't really know how to stop? It's like I want to stay with my bf, definitely, but I'm just always stuck wondering about the sex? I''m just not sure about what I can do to manage this. Is this normal?"
+62927,I am thinking of going to UHC counselling... What can I expect? And does UHC even prescribe medication for mental illness?
+62925,"Hi, I’m a rather skinny girl and I have trouble putting on weight regardless of what I eat. So I’m trying to gain muscles instead. But then, I’m really shy to use the weight machines and I got stared at while I was using it as if I am a beginner(because I am really skinny lol). Anyone girls willing to head to the gym with me?"
+62924,"[LOST A BLUE WATER BOTTLE AT UTOWN FINE FOOD]
+
+Hello, I have lost a 1-liter water bottle, blue color, have NUS logo on it today Sun 05/05/2019 around lunch time at UTown Fine Food (The first canteen from UTown bus stop). 
+
+I used the bottle to chop a table near the Indian food stall where a group of 4 students (2 girls, one of the girls was wearing a white T-shirt, the other girl was wearing a floral brown shirt and a white short if I'm not wrong & 2 guys) was about to leave. I got ask one of the girls whether they were abt to leave. The girl said yes so I put my water bottle there & go queue at the stall nearby. When I looked back a while later, they have gone together with my water bottle. I have desperately run around for an hour & tried to find for it but it seems to be hopeless.
+
+If anyone accidentally took it, please return to me (you could like or comment this post & I'll pm you). The bottle is very meaningful to me & I really like it. I'll compensate you for that. Thanks a lot in advance!"
+62923,"To OP #62923
+
+Calling BS on your confession. Not even the local top brass makes it to entry hedge fund unless you pulled some strings to get there. An analyst position in hedge fund only hires experienced IB/PE with proven track record (min 2-4 years) and easily double the salary there.
+
+Advice to any finance/econ/banking majors - learn well and pick up fast in your internships, and keep in contact with your supervisors. IB wannabes, well you need the entire package down.
+
+- ex-fund associate now consultant. class of '14"
+62921,"Dear Steven,
+
+I have been studying so so hard for 2040c, but i don't know what i was thinking during the finals; made simple mistakes that totaled at least -10 marks for section A alone
+
+I was aiming for at least an A-, but am super worried now. What am i going to do?"
+62920,Is it bad that I have yet to receive any news for my application for CS? Not even for DA interview. I’m worried as the deadline for acceptance window draws near.
+62918,"I'm on dating apps for a while now and seeking only for sincere and long term relationship. I have a fair share of matches, however, I'm beginning to lose faith in the dating scene. It's so hard to find a girl who is sincere and want to be friend with you nowadays. They just come and go and not going to have more conversations with you before cutting you off. Mostly, is a 1 or 2 time reply and boom, they are gone without a trace. Why do they behave in this manner and what are they really seeking out for? Are there still good and sincere girls left or have they all evolved to become players as well? Even those who mentioned 'simple girl' in their profile aren't really simple to begin with. I really hope I can meet a sincere girl soon. Drop me a hint if you are interested to be a friend with me."
+62917,"I have always wondered how do people overload and still cope well? Take my CS2107 TA for example, I heard from my friend that he was taking 7 modules but yet he still manages to survive on top of teaching? Do you people not sleep or something??"
+62916,"Some stingy, tight fisted youngsters choose to remain living with their parents in their hdb flats even in their 40s. Refuse to own a car even though they earn more than enough to afford it under the excuse that grab cab is cheap and mrt is accessible. Their main intention is to avoid chauffeuring duty and spend their money on luxury tours 3 or 4 times a year overseas. YOLO spirit is very rife among the youngsters."
+62915,"Hi everyone, just wondering, how do people view NUS students dating other students from other schools that are not from the three unis (NTU, NUS, SMU)? Does it really matter?"
+62914,"To #62872
+
+I am in a similar position, my family earns less than $2-3k every month and I work every month even during school term to earn some pocket money for myself. I am also graduating this semester and will be going on a grad trip with my friends. 
+
+At first, I was thinking, should I not go overseas and save the money for my family instead? Since, like many in the comment section had said:
+1) Family first
+2) Family will be there for you more than your friends
+
+However, the friends I'm going with are friends that I've known for a long time, and I know that once everybody start working, have boyfriends, or even will start to plan to have a family, it will be difficult to plan for an overseas trip in the future. I also treat it as a motivation, for me to clear my mind, and to be ready to work hard in my future career, to focus 100% on my family, clear their debts and etc. 
+
+Finances wise, since we planned early, we tried to find the lowest cost flights and airbnb, and during trip planning, we tried to go as budget as possible (e.g. going to an area and touring that area for the day, to save on transport; checking out discount sites like klook, or even going to the tourism board of the country that we are going to to see if they have discount coupons to spare). And set a limit on how much we can spend by changing $x and sticking to that amount on the trip. Even though I'm not going to Japan, I believe that it is possible to enjoy while going on budget as well - take many pictures!
+
+I guess this is also a time to test your friendships? To see if both parties are willing to compromise. If they are willing to give up going to expensive places, or if you are willing to splurge just once/twice as a treat for yourself?
+
+We have never travelled as a family together, but I always make sure to bring back some souvenirs, such as items like shirts and food for my family. And make it a point that when I start working, I need to bring them out. I know I may be called selfish for not putting my family first, but who knows, this time after grad and before work may be the only time that we are really ""free"" and the only time for us to properly relax before stepping into the workforce."
+62913,"Hi! I've been trying to apply for a summer internship since the start of April but all my applications have been unsuccessful so far, and I've only received one call back for an interview. They said they would get back to me by next week but it's been 3 weeks so I've pretty much given up hope on getting an answer from them. I know that internships are really important in adding that experience to your portfolio when you look for jobs after you graduate, so im feeling pretty demoralised because I just finished my 2nd year in uni and have never done an internship. If I'm already having such a hard time looking for internships, I fear it'll be even worse in the future when I have to look for a job:/ anyone has any advice for me? Appreciate it!"
+62911,"#62871: I feel you, losing weight can be really tough. I went on a long, healthy, and successful weight loss programme and here are some tips.
+
+First of all, some commenters say that 1200kcals will malnourish you and that is not really true. As a girl in your early 20's your basal metabolism is probably around 1200-1300kcals, so keeping it around 1200 is fine. But I wouldn’t suggest calorie counting; a rough idea of how much you’re eating is less stressful. 
+
+What matters more is what you eat. I'm sorry to break it to you but the food you get from coffee shops is not the best for losing weight. Not even the 'healthier' options. Contrary to what the posters say, fish soup or YTF is not really a good option because of the sheer amount of sodium in them. Sodium is worse than carbs because they make you bloated, which makes one look 'fat' too. Also, it’s okay if you eat carbs - if you reduce carbs too much you’ll have crazy cravings. Just opt for the better carbs. Take brown rice instead of white rice and avoid flour - that includes noodles, dumplings, etc. Tbh it’s really hard to get food in Singapore that helps you to lose weight, even the veggies in economic rice are cooked in oil. Don’t get me wrong, the food is quite healthy for people who are trying to maintain their weight, but not for those who are trying to lose weight. 
+
+You can also try to cook during the summer break, have fresh veggies, proteins, and healthier carbs. And try not to eat anything after dinner and drink lots of water (~2L a day).
+ 
+Oh and here’s a tip - you should actually say goodbye to stuff like sweets and fried food (I know, sad), but you should allow yourself to eat a bit once a week or so, to control your cravings. Set a day aside (like Sunday) to eat what you want (in moderation). This helped me a lot. 
+
+If you happen to break down one day and eat supper or something, don’t give up. Eat slightly cleaner the next day and don’t give up. Sometimes you’ll find yourself breaking down for days on end… still, don’t give up. I’ve been there. It will get worse during your period and it will be very difficult to lose weight during that week. But the important thing is to persevere. Weight loss is a repetition of stagnant weight and sudden loss, so sometimes you need to wait a bit until your numbers start going down.
+
+For cardio, running is better than walking. Honestly, brisk walks don’t really help with weight loss, I’ve tried. :( You can run a bit and then walk fast, then run again, and so on. 
+
+Now, weights. So, you see some people who tell you to ‘get a trainer’ or ‘do weights’, right? I agree to half of that. In the long run, yes, you need muscles to get into a better shape. If you keep doing only cardio, you’ll be really skinny but not in a healthy, good-looking way. So in the long run, you need muscles, and you need to do weights to gain muscle mass.
+
+But, here’s the thing. Weight loss is all about the mentality and stress. Especially when your weight is affecting you psychologically. I was in your shoes too. When you’re at the early stages of losing weight, seeing the numbers change is really helpful. So at first, focus on really changing your eating habits and doing cardio, so you start seeing changes in your weight. Also, take photos in the mirror and see those changes yourself. After you’ve lost a few pounds you can start weights. Yes, the initial weight loss is mostly losing some water and a bit of muscle mass. But that does motivate you initially.
+
+Secondly, it’s much harder for girls to gain muscles. You can do squats, lunges, and crunches every single day and not gain a lot of muscle mass. The muscle-gaining process will be a long, long journey. If you start weights too early, you’ll get stressed because you won’t see much weight loss but you don’t see muscles either. It’s all about stress control.
+
+And last but not least - give yourself a lot of time. Weight loss that happens in a short period of time will lead to a quick regain. Give yourself at least a few months and think of it as a process to change your lifestyle and habits! It’s really self-care because you are getting yourself to eat healthier food and adopt healthier habits (like exercise regularly, sleep early, drink more water). It will take some time because losing weight doesn’t have a one-size-fits-all method. You’ll need to take a lot of trial and error to find a way that works for you. All the best!"
+62910,"Hi guys, will you attend your commencement even if your parents told you that they are not going? How will you handle the loneliness when everyone else has parents/relatives around?"
+62909,"Read an article about millenials, and some who chose to settle down and get married quite young, and there was an anecdote, about this couple who in the midst of a terrible fight found their moment of clarity, the guy stepped back and asked, is this it for us? And she replied, no, i'm willing to keep trying if you are. reading that made me a little wistful. I never want to be that fool holding on to something that never was, but I can't help feeling sad because, I was willing to keep trying, but you only spelled the end. Who am I to ask for something you don't want?
+
+#62909, you're not alone. I hope we each find a love we deserve."
+62908,"Is NUS actually considered prestigious in Singapore?
+Back in my JC it was never a question of ""could we go to NUS?"" but more of ""do we want to go to NUS?"", so I'm always surprised when people refer to it with awe.
+There's no shortage of incompetence here, that's for sure."
+62906,"Finals are over, but it is bittersweet. I saw her outside the exam hall again in her octopus shirt, for the last time in a long time. Somehow, life always seems to put me in her vicinity as if to taunt me. I see her in tutorials and around school and on the bus but it's like I'm just...transparent to her."
+62905,"#62905 Too bad, he's beyond your reach. Go do some research on his background first."
+62904,"Hey #62904, don't worry. Your life isn't that complicated. You said guy A doesn't feel the same way towards you and you don't feel the same towards guy B while guy C is just a fwb. 
+
+Since no one shares mutual feelings with you, it's best to just move on. So yup you should continue talking to other guys and see if there are better ones out there. 
+
+I'm sure you will eventually find someone who feels the same towards you. Honestly I think my life is a little more complicated. 
+
+Some years back I joined two CCAs and got to know two guys from each CCA. During final year, I often went out with each of them. Let's just call them V & W. I liked V first. 
+
+One day I decided to confess to V. He rejected me. He said W likes me and as a good friend of W, he felt that it'd be wrong of him to date me. 
+
+I stopped going out with V but continued to go out with W. W showered me with care. Eventually, I was moved by his effort and decided to date him. 
+
+When V saw that W and I were dating, he got really upset. He suddenly stopped hanging out with W, which left W feeling confused and troubled. 
+
+Seeing that both of them were upset with each other, I decided to end things with W. What surprised me most was V suddenly decided that he wants to date me. I asked him to give me some time to think it through. 
+
+V said he regretted letting go of me. At the same time, W continued asking me out, hoping that I would accept him again. 
+
+To take things off my mind, I started a new hobby and met guy X. X actually knew W from army. They hang out occasionally and he knew about me and W.
+
+I was attracted to X and he liked me too. But I didn't want him to feel like he's a rebound, so I asked to hang out as friends first.
+
+On my graduation day, V and W wanted to come. I persuaded W not to come and let V come because he wanted to help take photos and he's a good photographer. 
+
+X suddenly said he's nearby so he decided to come over. Both wanted to send me home and invited themselves into my house. Three of us sat on the couch and made some small talk. The situation was painfully awkward.
+
+I then started my first job. A few weeks into the job, I met guy Y and guy Z, both from different dept. 
+
+Y would often buy me breakfast and coffee while Z would always offer to help me with my work whenever I face difficulties. I would often hang out with each of them after work. 
+
+Coincidentally, Y's birthday and Z's birthday are 2 days apart. But they wanted to celebrate with me on the same saturday. I went out with Y and left a few hours later for dinner with Z. It was sad seeing the disappointed look in Y as I went off. 
+
+Z then started asking me out for movies and dinners. There was once we were walking around the mall after dinner and ran into V and his female friend. 
+
+I felt a little jealous and casually asked V who she was. I decided to tell him how I feel. He said it was just a long time friend and got jealous that I was with a guy. I told him it was just a colleague. He then asked me to give him another chance. Realising that I still like him, I finally accepted him. I also decided to cut off contact with everyone else. 
+
+Indeed, life can be quite complicated and frustrating. But what is meant to be in our lives will find its way to us. So just be a little patient, things would turn out fine in the end."
